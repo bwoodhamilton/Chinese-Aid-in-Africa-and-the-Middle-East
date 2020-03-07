@@ -1,0 +1,1005 @@
+country,year,pr_score,cl_score,fh_status
+Algeria,2000,6.0,5.0,NF
+Algeria,2001,6.0,5.0,NF
+Algeria,2002,6.0,5.0,NF
+Algeria,2003,6.0,5.0,NF
+Algeria,2004,6.0,5.0,NF
+Algeria,2005,6.0,5.0,NF
+Algeria,2006,6.0,5.0,NF
+Algeria,2007,6.0,5.0,NF
+Algeria,2008,6.0,5.0,NF
+Algeria,2009,6.0,5.0,NF
+Algeria,2010,6.0,5.0,NF
+Algeria,2011,6.0,5.0,NF
+Algeria,2012,6.0,5.0,NF
+Algeria,2013,6.0,5.0,NF
+Algeria,2014,6.0,5.0,NF
+Angola,2000,6.0,6.0,NF
+Angola,2001,6.0,6.0,NF
+Angola,2002,6.0,5.0,NF
+Angola,2003,6.0,5.0,NF
+Angola,2004,6.0,5.0,NF
+Angola,2005,6.0,5.0,NF
+Angola,2006,6.0,5.0,NF
+Angola,2007,6.0,5.0,NF
+Angola,2008,6.0,5.0,NF
+Angola,2009,6.0,5.0,NF
+Angola,2010,6.0,5.0,NF
+Angola,2011,6.0,5.0,NF
+Angola,2012,6.0,5.0,NF
+Angola,2013,6.0,5.0,NF
+Angola,2014,6.0,5.0,NF
+Bahrain,2000,7.0,6.0,NF
+Bahrain,2001,6.0,5.0,NF
+Bahrain,2002,5.0,5.0,PF
+Bahrain,2003,5.0,5.0,PF
+Bahrain,2004,5.0,5.0,PF
+Bahrain,2005,5.0,5.0,PF
+Bahrain,2006,5.0,5.0,PF
+Bahrain,2007,5.0,5.0,PF
+Bahrain,2008,5.0,5.0,PF
+Bahrain,2009,6.0,5.0,NF
+Bahrain,2010,6.0,5.0,NF
+Bahrain,2011,6.0,6.0,NF
+Bahrain,2012,6.0,6.0,NF
+Bahrain,2013,6.0,6.0,NF
+Bahrain,2014,7.0,6.0,NF
+Benin,2000,2.0,2.0,F
+Benin,2001,3.0,2.0,F
+Benin,2002,3.0,2.0,F
+Benin,2003,2.0,2.0,F
+Benin,2004,2.0,2.0,F
+Benin,2005,2.0,2.0,F
+Benin,2006,2.0,2.0,F
+Benin,2007,2.0,2.0,F
+Benin,2008,2.0,2.0,F
+Benin,2009,2.0,2.0,F
+Benin,2010,2.0,2.0,F
+Benin,2011,2.0,2.0,F
+Benin,2012,2.0,2.0,F
+Benin,2013,2.0,2.0,F
+Benin,2014,2.0,2.0,F
+Botswana,2000,2.0,2.0,F
+Botswana,2001,2.0,2.0,F
+Botswana,2002,2.0,2.0,F
+Botswana,2003,2.0,2.0,F
+Botswana,2004,2.0,2.0,F
+Botswana,2005,2.0,2.0,F
+Botswana,2006,2.0,2.0,F
+Botswana,2007,2.0,2.0,F
+Botswana,2008,2.0,2.0,F
+Botswana,2009,3.0,2.0,F
+Botswana,2010,3.0,2.0,F
+Botswana,2011,3.0,2.0,F
+Botswana,2012,3.0,2.0,F
+Botswana,2013,3.0,2.0,F
+Botswana,2014,3.0,2.0,F
+Burkina Faso,2000,4.0,4.0,PF
+Burkina Faso,2001,4.0,4.0,PF
+Burkina Faso,2002,4.0,4.0,PF
+Burkina Faso,2003,4.0,4.0,PF
+Burkina Faso,2004,5.0,4.0,PF
+Burkina Faso,2005,5.0,3.0,PF
+Burkina Faso,2006,5.0,3.0,PF
+Burkina Faso,2007,5.0,3.0,PF
+Burkina Faso,2008,5.0,3.0,PF
+Burkina Faso,2009,5.0,3.0,PF
+Burkina Faso,2010,5.0,3.0,PF
+Burkina Faso,2011,5.0,3.0,PF
+Burkina Faso,2012,5.0,3.0,PF
+Burkina Faso,2013,5.0,3.0,PF
+Burkina Faso,2014,6.0,3.0,PF
+Burundi,2000,6.0,6.0,NF
+Burundi,2001,6.0,6.0,NF
+Burundi,2002,6.0,5.0,NF
+Burundi,2003,5.0,5.0,PF
+Burundi,2004,5.0,5.0,PF
+Burundi,2005,3.0,5.0,PF
+Burundi,2006,4.0,5.0,PF
+Burundi,2007,4.0,5.0,PF
+Burundi,2008,4.0,5.0,PF
+Burundi,2009,4.0,5.0,PF
+Burundi,2010,5.0,5.0,PF
+Burundi,2011,5.0,5.0,PF
+Burundi,2012,5.0,5.0,PF
+Burundi,2013,5.0,5.0,PF
+Burundi,2014,6.0,5.0,NF
+Cameroon,2000,7.0,6.0,NF
+Cameroon,2001,6.0,6.0,NF
+Cameroon,2002,6.0,6.0,NF
+Cameroon,2003,6.0,6.0,NF
+Cameroon,2004,6.0,6.0,NF
+Cameroon,2005,6.0,6.0,NF
+Cameroon,2006,6.0,6.0,NF
+Cameroon,2007,6.0,6.0,NF
+Cameroon,2008,6.0,6.0,NF
+Cameroon,2009,6.0,6.0,NF
+Cameroon,2010,6.0,6.0,NF
+Cameroon,2011,6.0,6.0,NF
+Cameroon,2012,6.0,6.0,NF
+Cameroon,2013,6.0,6.0,NF
+Cameroon,2014,6.0,6.0,NF
+Cape Verde,2000,1.0,2.0,F
+Cape Verde,2001,1.0,2.0,F
+Cape Verde,2002,1.0,2.0,F
+Cape Verde,2003,1.0,1.0,F
+Cape Verde,2004,1.0,1.0,F
+Cape Verde,2005,1.0,1.0,F
+Cape Verde,2006,1.0,1.0,F
+Cape Verde,2007,1.0,1.0,F
+Cape Verde,2008,1.0,1.0,F
+Cape Verde,2009,1.0,1.0,F
+Cape Verde,2010,1.0,1.0,F
+Cape Verde,2011,1.0,1.0,F
+Cape Verde,2012,1.0,1.0,F
+Cape Verde,2013,1.0,1.0,F
+Cape Verde,2014,1.0,1.0,F
+Central African Republic,2000,3.0,4.0,PF
+Central African Republic,2001,5.0,5.0,PF
+Central African Republic,2002,5.0,5.0,PF
+Central African Republic,2003,7.0,5.0,NF
+Central African Republic,2004,6.0,5.0,NF
+Central African Republic,2005,5.0,4.0,PF
+Central African Republic,2006,5.0,4.0,PF
+Central African Republic,2007,5.0,5.0,PF
+Central African Republic,2008,5.0,5.0,PF
+Central African Republic,2009,5.0,5.0,PF
+Central African Republic,2010,5.0,5.0,PF
+Central African Republic,2011,5.0,5.0,PF
+Central African Republic,2012,5.0,5.0,PF
+Central African Republic,2013,7.0,7.0,NF
+Central African Republic,2014,7.0,7.0,NF
+Chad,2000,6.0,5.0,NF
+Chad,2001,6.0,5.0,NF
+Chad,2002,6.0,5.0,NF
+Chad,2003,6.0,5.0,NF
+Chad,2004,6.0,5.0,NF
+Chad,2005,6.0,5.0,NF
+Chad,2006,6.0,6.0,NF
+Chad,2007,7.0,6.0,NF
+Chad,2008,7.0,6.0,NF
+Chad,2009,7.0,6.0,NF
+Chad,2010,7.0,6.0,NF
+Chad,2011,7.0,6.0,NF
+Chad,2012,7.0,6.0,NF
+Chad,2013,7.0,6.0,NF
+Chad,2014,7.0,6.0,NF
+Comoros,2000,6.0,4.0,PF
+Comoros,2001,6.0,4.0,PF
+Comoros,2002,5.0,4.0,PF
+Comoros,2003,5.0,4.0,PF
+Comoros,2004,4.0,4.0,PF
+Comoros,2005,4.0,4.0,PF
+Comoros,2006,3.0,4.0,PF
+Comoros,2007,4.0,4.0,PF
+Comoros,2008,3.0,4.0,PF
+Comoros,2009,3.0,4.0,PF
+Comoros,2010,3.0,4.0,PF
+Comoros,2011,3.0,4.0,PF
+Comoros,2012,3.0,4.0,PF
+Comoros,2013,3.0,4.0,PF
+Comoros,2014,3.0,4.0,PF
+Republic of Congo,2000,6.0,4.0,PF
+Republic of Congo,2001,5.0,4.0,PF
+Republic of Congo,2002,6.0,4.0,PF
+Republic of Congo,2003,5.0,4.0,PF
+Republic of Congo,2004,5.0,4.0,PF
+Republic of Congo,2005,5.0,5.0,PF
+Republic of Congo,2006,6.0,5.0,NF
+Republic of Congo,2007,6.0,5.0,NF
+Republic of Congo,2008,6.0,5.0,NF
+Republic of Congo,2009,6.0,5.0,NF
+Republic of Congo,2010,6.0,5.0,NF
+Republic of Congo,2011,6.0,5.0,NF
+Republic of Congo,2012,6.0,5.0,NF
+Republic of Congo,2013,6.0,5.0,NF
+Republic of Congo,2014,6.0,5.0,NF
+Democratic Republic of Congo,2000,7.0,6.0,NF
+Democratic Republic of Congo,2001,6.0,6.0,NF
+Democratic Republic of Congo,2002,6.0,6.0,NF
+Democratic Republic of Congo,2003,6.0,6.0,NF
+Democratic Republic of Congo,2004,6.0,6.0,NF
+Democratic Republic of Congo,2005,6.0,6.0,NF
+Democratic Republic of Congo,2006,5.0,6.0,NF
+Democratic Republic of Congo,2007,5.0,6.0,NF
+Democratic Republic of Congo,2008,6.0,6.0,NF
+Democratic Republic of Congo,2009,6.0,6.0,NF
+Democratic Republic of Congo,2010,6.0,6.0,NF
+Democratic Republic of Congo,2011,6.0,6.0,NF
+Democratic Republic of Congo,2012,6.0,6.0,NF
+Democratic Republic of Congo,2013,6.0,6.0,NF
+Democratic Republic of Congo,2014,6.0,6.0,NF
+Cote D'Ivoire,2000,6.0,5.0,PF
+Cote D'Ivoire,2001,5.0,4.0,PF
+Cote D'Ivoire,2002,6.0,6.0,NF
+Cote D'Ivoire,2003,6.0,5.0,NF
+Cote D'Ivoire,2004,6.0,6.0,NF
+Cote D'Ivoire,2005,6.0,6.0,NF
+Cote D'Ivoire,2006,7.0,6.0,NF
+Cote D'Ivoire,2007,7.0,5.0,NF
+Cote D'Ivoire,2008,6.0,5.0,NF
+Cote D'Ivoire,2009,6.0,5.0,NF
+Cote D'Ivoire,2010,7.0,6.0,NF
+Cote D'Ivoire,2011,6.0,6.0,NF
+Cote D'Ivoire,2012,5.0,5.0,PF
+Cote D'Ivoire,2013,5.0,4.0,PF
+Cote D'Ivoire,2014,5.0,4.0,PF
+Djibouti,2000,4.0,5.0,PF
+Djibouti,2001,4.0,5.0,PF
+Djibouti,2002,4.0,5.0,PF
+Djibouti,2003,5.0,5.0,PF
+Djibouti,2004,5.0,5.0,PF
+Djibouti,2005,5.0,5.0,PF
+Djibouti,2006,5.0,5.0,PF
+Djibouti,2007,5.0,5.0,PF
+Djibouti,2008,5.0,5.0,PF
+Djibouti,2009,5.0,5.0,PF
+Djibouti,2010,6.0,5.0,NF
+Djibouti,2011,6.0,5.0,NF
+Djibouti,2012,6.0,5.0,NF
+Djibouti,2013,6.0,5.0,NF
+Djibouti,2014,6.0,5.0,NF
+Egypt,2000,6.0,5.0,NF
+Egypt,2001,6.0,6.0,NF
+Egypt,2002,6.0,6.0,NF
+Egypt,2003,6.0,6.0,NF
+Egypt,2004,6.0,5.0,NF
+Egypt,2005,6.0,5.0,NF
+Egypt,2006,6.0,5.0,NF
+Egypt,2007,6.0,5.0,NF
+Egypt,2008,6.0,5.0,NF
+Egypt,2009,6.0,5.0,NF
+Egypt,2010,6.0,5.0,NF
+Egypt,2011,6.0,5.0,NF
+Egypt,2012,5.0,5.0,PF
+Egypt,2013,6.0,5.0,NF
+Egypt,2014,6.0,5.0,NF
+Equatorial Guinea,2000,7.0,7.0,NF
+Equatorial Guinea,2001,6.0,6.0,NF
+Equatorial Guinea,2002,7.0,6.0,NF
+Equatorial Guinea,2003,7.0,6.0,NF
+Equatorial Guinea,2004,7.0,6.0,NF
+Equatorial Guinea,2005,7.0,6.0,NF
+Equatorial Guinea,2006,7.0,6.0,NF
+Equatorial Guinea,2007,7.0,6.0,NF
+Equatorial Guinea,2008,7.0,7.0,NF
+Equatorial Guinea,2009,7.0,7.0,NF
+Equatorial Guinea,2010,7.0,7.0,NF
+Equatorial Guinea,2011,7.0,7.0,NF
+Equatorial Guinea,2012,7.0,7.0,NF
+Equatorial Guinea,2013,7.0,7.0,NF
+Equatorial Guinea,2014,7.0,7.0,NF
+Eritrea,2000,7.0,5.0,NF
+Eritrea,2001,7.0,6.0,NF
+Eritrea,2002,7.0,6.0,NF
+Eritrea,2003,7.0,6.0,NF
+Eritrea,2004,7.0,6.0,NF
+Eritrea,2005,7.0,6.0,NF
+Eritrea,2006,7.0,6.0,NF
+Eritrea,2007,7.0,6.0,NF
+Eritrea,2008,7.0,6.0,NF
+Eritrea,2009,7.0,7.0,NF
+Eritrea,2010,7.0,7.0,NF
+Eritrea,2011,7.0,7.0,NF
+Eritrea,2012,7.0,7.0,NF
+Eritrea,2013,7.0,7.0,NF
+Eritrea,2014,7.0,7.0,NF
+Ethiopia,2000,5.0,5.0,PF
+Ethiopia,2001,5.0,5.0,PF
+Ethiopia,2002,5.0,5.0,PF
+Ethiopia,2003,5.0,5.0,PF
+Ethiopia,2004,5.0,5.0,PF
+Ethiopia,2005,5.0,5.0,PF
+Ethiopia,2006,5.0,5.0,PF
+Ethiopia,2007,5.0,5.0,PF
+Ethiopia,2008,5.0,5.0,PF
+Ethiopia,2009,5.0,5.0,PF
+Ethiopia,2010,6.0,6.0,NF
+Ethiopia,2011,6.0,6.0,NF
+Ethiopia,2012,6.0,6.0,NF
+Ethiopia,2013,6.0,6.0,NF
+Ethiopia,2014,6.0,6.0,NF
+Gabon,2000,5.0,4.0,PF
+Gabon,2001,5.0,4.0,PF
+Gabon,2002,5.0,4.0,PF
+Gabon,2003,5.0,4.0,PF
+Gabon,2004,5.0,4.0,PF
+Gabon,2005,6.0,4.0,PF
+Gabon,2006,6.0,4.0,PF
+Gabon,2007,6.0,4.0,PF
+Gabon,2008,6.0,4.0,PF
+Gabon,2009,6.0,5.0,NF
+Gabon,2010,6.0,5.0,NF
+Gabon,2011,6.0,5.0,NF
+Gabon,2012,6.0,5.0,NF
+Gabon,2013,6.0,5.0,NF
+Gabon,2014,6.0,5.0,NF
+Ghana,2000,2.0,3.0,F
+Ghana,2001,2.0,3.0,F
+Ghana,2002,2.0,3.0,F
+Ghana,2003,2.0,2.0,F
+Ghana,2004,2.0,2.0,F
+Ghana,2005,1.0,2.0,F
+Ghana,2006,1.0,2.0,F
+Ghana,2007,1.0,2.0,F
+Ghana,2008,1.0,2.0,F
+Ghana,2009,1.0,2.0,F
+Ghana,2010,1.0,2.0,F
+Ghana,2011,1.0,2.0,F
+Ghana,2012,1.0,2.0,F
+Ghana,2013,1.0,2.0,F
+Ghana,2014,1.0,2.0,F
+Guinea,2000,6.0,5.0,NF
+Guinea,2001,6.0,5.0,NF
+Guinea,2002,6.0,5.0,NF
+Guinea,2003,6.0,5.0,NF
+Guinea,2004,6.0,5.0,NF
+Guinea,2005,6.0,5.0,NF
+Guinea,2006,6.0,5.0,NF
+Guinea,2007,6.0,5.0,NF
+Guinea,2008,7.0,5.0,NF
+Guinea,2009,7.0,6.0,NF
+Guinea,2010,5.0,5.0,PF
+Guinea,2011,5.0,5.0,PF
+Guinea,2012,5.0,5.0,PF
+Guinea,2013,5.0,5.0,PF
+Guinea,2014,5.0,5.0,PF
+Guinea-Bissau,2000,4.0,5.0,PF
+Guinea-Bissau,2001,4.0,5.0,PF
+Guinea-Bissau,2002,4.0,5.0,PF
+Guinea-Bissau,2003,6.0,4.0,PF
+Guinea-Bissau,2004,4.0,4.0,PF
+Guinea-Bissau,2005,3.0,4.0,PF
+Guinea-Bissau,2006,4.0,4.0,PF
+Guinea-Bissau,2007,4.0,4.0,PF
+Guinea-Bissau,2008,4.0,4.0,PF
+Guinea-Bissau,2009,4.0,4.0,PF
+Guinea-Bissau,2010,4.0,4.0,PF
+Guinea-Bissau,2011,4.0,4.0,PF
+Guinea-Bissau,2012,6.0,5.0,NF
+Guinea-Bissau,2013,6.0,5.0,NF
+Guinea-Bissau,2014,5.0,5.0,PF
+Iran,2000,6.0,6.0,NF
+Iran,2001,6.0,6.0,NF
+Iran,2002,6.0,6.0,NF
+Iran,2003,6.0,6.0,NF
+Iran,2004,6.0,6.0,NF
+Iran,2005,6.0,6.0,NF
+Iran,2006,6.0,6.0,NF
+Iran,2007,6.0,6.0,NF
+Iran,2008,6.0,6.0,NF
+Iran,2009,6.0,6.0,NF
+Iran,2010,6.0,6.0,NF
+Iran,2011,6.0,6.0,NF
+Iran,2012,6.0,6.0,NF
+Iran,2013,6.0,6.0,NF
+Iran,2014,6.0,6.0,NF
+Iraq,2000,7.0,7.0,NF
+Iraq,2001,7.0,7.0,NF
+Iraq,2002,7.0,7.0,NF
+Iraq,2003,7.0,5.0,NF
+Iraq,2004,7.0,5.0,NF
+Iraq,2005,6.0,5.0,NF
+Iraq,2006,6.0,6.0,NF
+Iraq,2007,6.0,6.0,NF
+Iraq,2008,6.0,6.0,NF
+Iraq,2009,5.0,6.0,NF
+Iraq,2010,5.0,6.0,NF
+Iraq,2011,5.0,6.0,NF
+Iraq,2012,6.0,6.0,NF
+Iraq,2013,5.0,6.0,NF
+Iraq,2014,6.0,6.0,NF
+Israel,2000,1.0,3.0,F
+Israel,2001,1.0,3.0,F
+Israel,2002,1.0,3.0,F
+Israel,2003,1.0,3.0,F
+Israel,2004,1.0,3.0,F
+Israel,2005,1.0,2.0,F
+Israel,2006,1.0,2.0,F
+Israel,2007,1.0,2.0,F
+Israel,2008,1.0,2.0,F
+Israel,2009,1.0,2.0,F
+Israel,2010,1.0,2.0,F
+Israel,2011,1.0,2.0,F
+Israel,2012,1.0,2.0,F
+Israel,2013,1.0,2.0,F
+Israel,2014,1.0,2.0,F
+Jordan,2000,4.0,4.0,PF
+Jordan,2001,5.0,5.0,PF
+Jordan,2002,6.0,5.0,PF
+Jordan,2003,5.0,5.0,PF
+Jordan,2004,5.0,4.0,PF
+Jordan,2005,5.0,4.0,PF
+Jordan,2006,5.0,4.0,PF
+Jordan,2007,5.0,4.0,PF
+Jordan,2008,5.0,5.0,PF
+Jordan,2009,6.0,5.0,NF
+Jordan,2010,6.0,5.0,NF
+Jordan,2011,6.0,5.0,NF
+Jordan,2012,6.0,5.0,NF
+Jordan,2013,6.0,5.0,NF
+Jordan,2014,6.0,5.0,NF
+Kenya,2000,6.0,5.0,NF
+Kenya,2001,6.0,5.0,NF
+Kenya,2002,4.0,4.0,PF
+Kenya,2003,3.0,3.0,PF
+Kenya,2004,3.0,3.0,PF
+Kenya,2005,3.0,3.0,PF
+Kenya,2006,3.0,3.0,PF
+Kenya,2007,4.0,3.0,PF
+Kenya,2008,4.0,3.0,PF
+Kenya,2009,4.0,4.0,PF
+Kenya,2010,4.0,3.0,PF
+Kenya,2011,4.0,3.0,PF
+Kenya,2012,4.0,4.0,PF
+Kenya,2013,4.0,4.0,PF
+Kenya,2014,4.0,4.0,PF
+Kuwait,2000,4.0,5.0,PF
+Kuwait,2001,4.0,5.0,PF
+Kuwait,2002,4.0,5.0,PF
+Kuwait,2003,4.0,5.0,PF
+Kuwait,2004,4.0,5.0,PF
+Kuwait,2005,4.0,5.0,PF
+Kuwait,2006,4.0,4.0,PF
+Kuwait,2007,4.0,4.0,PF
+Kuwait,2008,4.0,4.0,PF
+Kuwait,2009,4.0,4.0,PF
+Kuwait,2010,4.0,5.0,PF
+Kuwait,2011,4.0,5.0,PF
+Kuwait,2012,5.0,5.0,PF
+Kuwait,2013,5.0,5.0,PF
+Kuwait,2014,5.0,5.0,PF
+Lebanon,2000,6.0,5.0,NF
+Lebanon,2001,6.0,5.0,NF
+Lebanon,2002,6.0,5.0,NF
+Lebanon,2003,6.0,5.0,NF
+Lebanon,2004,6.0,5.0,NF
+Lebanon,2005,5.0,4.0,PF
+Lebanon,2006,5.0,4.0,PF
+Lebanon,2007,5.0,4.0,PF
+Lebanon,2008,5.0,4.0,PF
+Lebanon,2009,5.0,3.0,PF
+Lebanon,2010,5.0,3.0,PF
+Lebanon,2011,5.0,4.0,PF
+Lebanon,2012,5.0,4.0,PF
+Lebanon,2013,5.0,4.0,PF
+Lebanon,2014,5.0,4.0,PF
+Lesotho,2000,4.0,4.0,PF
+Lesotho,2001,4.0,4.0,PF
+Lesotho,2002,2.0,3.0,F
+Lesotho,2003,2.0,3.0,F
+Lesotho,2004,2.0,3.0,F
+Lesotho,2005,2.0,3.0,F
+Lesotho,2006,2.0,3.0,F
+Lesotho,2007,2.0,3.0,F
+Lesotho,2008,2.0,3.0,F
+Lesotho,2009,3.0,3.0,PF
+Lesotho,2010,3.0,3.0,PF
+Lesotho,2011,3.0,3.0,PF
+Lesotho,2012,2.0,3.0,F
+Lesotho,2013,2.0,3.0,F
+Lesotho,2014,2.0,3.0,F
+Liberia,2000,5.0,6.0,PF
+Liberia,2001,6.0,6.0,NF
+Liberia,2002,6.0,6.0,NF
+Liberia,2003,6.0,6.0,NF
+Liberia,2004,5.0,4.0,PF
+Liberia,2005,4.0,4.0,PF
+Liberia,2006,3.0,4.0,PF
+Liberia,2007,3.0,4.0,PF
+Liberia,2008,3.0,4.0,PF
+Liberia,2009,3.0,4.0,PF
+Liberia,2010,3.0,4.0,PF
+Liberia,2011,3.0,4.0,PF
+Liberia,2012,3.0,4.0,PF
+Liberia,2013,3.0,4.0,PF
+Liberia,2014,3.0,4.0,PF
+Libya,2000,7.0,7.0,NF
+Libya,2001,7.0,7.0,NF
+Libya,2002,7.0,7.0,NF
+Libya,2003,7.0,7.0,NF
+Libya,2004,7.0,7.0,NF
+Libya,2005,7.0,7.0,NF
+Libya,2006,7.0,7.0,NF
+Libya,2007,7.0,7.0,NF
+Libya,2008,7.0,7.0,NF
+Libya,2009,7.0,7.0,NF
+Libya,2010,7.0,7.0,NF
+Libya,2011,7.0,6.0,NF
+Libya,2012,4.0,5.0,PF
+Libya,2013,4.0,5.0,PF
+Libya,2014,6.0,6.0,NF
+Madagascar,2000,2.0,4.0,PF
+Madagascar,2001,2.0,4.0,PF
+Madagascar,2002,3.0,4.0,PF
+Madagascar,2003,3.0,3.0,PF
+Madagascar,2004,3.0,3.0,PF
+Madagascar,2005,3.0,3.0,PF
+Madagascar,2006,4.0,3.0,PF
+Madagascar,2007,4.0,3.0,PF
+Madagascar,2008,4.0,3.0,PF
+Madagascar,2009,6.0,4.0,PF
+Madagascar,2010,6.0,4.0,PF
+Madagascar,2011,6.0,4.0,PF
+Madagascar,2012,6.0,4.0,PF
+Madagascar,2013,5.0,4.0,PF
+Madagascar,2014,4.0,4.0,PF
+Malawi,2000,3.0,3.0,PF
+Malawi,2001,4.0,3.0,PF
+Malawi,2002,4.0,4.0,PF
+Malawi,2003,3.0,4.0,PF
+Malawi,2004,4.0,4.0,PF
+Malawi,2005,4.0,4.0,PF
+Malawi,2006,4.0,3.0,PF
+Malawi,2007,4.0,4.0,PF
+Malawi,2008,4.0,4.0,PF
+Malawi,2009,3.0,4.0,PF
+Malawi,2010,3.0,4.0,PF
+Malawi,2011,3.0,4.0,PF
+Malawi,2012,3.0,4.0,PF
+Malawi,2013,3.0,4.0,PF
+Malawi,2014,3.0,4.0,PF
+Mali,2000,2.0,3.0,F
+Mali,2001,2.0,3.0,F
+Mali,2002,2.0,3.0,F
+Mali,2003,2.0,2.0,F
+Mali,2004,2.0,2.0,F
+Mali,2005,2.0,2.0,F
+Mali,2006,2.0,2.0,F
+Mali,2007,2.0,3.0,F
+Mali,2008,2.0,3.0,F
+Mali,2009,2.0,3.0,F
+Mali,2010,2.0,3.0,F
+Mali,2011,2.0,3.0,F
+Mali,2012,7.0,5.0,NF
+Mali,2013,5.0,4.0,PF
+Mali,2014,5.0,4.0,PF
+Mauritania,2000,6.0,5.0,NF
+Mauritania,2001,5.0,5.0,PF
+Mauritania,2002,5.0,5.0,PF
+Mauritania,2003,6.0,5.0,NF
+Mauritania,2004,6.0,5.0,NF
+Mauritania,2005,6.0,4.0,PF
+Mauritania,2006,5.0,4.0,PF
+Mauritania,2007,4.0,4.0,PF
+Mauritania,2008,6.0,5.0,NF
+Mauritania,2009,6.0,5.0,NF
+Mauritania,2010,6.0,5.0,NF
+Mauritania,2011,6.0,5.0,NF
+Mauritania,2012,6.0,5.0,NF
+Mauritania,2013,6.0,5.0,NF
+Mauritania,2014,6.0,5.0,NF
+Mauritius,2000,1.0,2.0,F
+Mauritius,2001,1.0,2.0,F
+Mauritius,2002,1.0,2.0,F
+Mauritius,2003,1.0,2.0,F
+Mauritius,2004,1.0,1.0,F
+Mauritius,2005,1.0,1.0,F
+Mauritius,2006,1.0,2.0,F
+Mauritius,2007,1.0,2.0,F
+Mauritius,2008,1.0,2.0,F
+Mauritius,2009,1.0,2.0,F
+Mauritius,2010,1.0,2.0,F
+Mauritius,2011,1.0,2.0,F
+Mauritius,2012,1.0,2.0,F
+Mauritius,2013,1.0,2.0,F
+Mauritius,2014,1.0,2.0,F
+Morocco,2000,5.0,4.0,PF
+Morocco,2001,5.0,5.0,PF
+Morocco,2002,5.0,5.0,PF
+Morocco,2003,5.0,5.0,PF
+Morocco,2004,5.0,4.0,PF
+Morocco,2005,5.0,4.0,PF
+Morocco,2006,5.0,4.0,PF
+Morocco,2007,5.0,4.0,PF
+Morocco,2008,5.0,4.0,PF
+Morocco,2009,5.0,4.0,PF
+Morocco,2010,5.0,4.0,PF
+Morocco,2011,5.0,4.0,PF
+Morocco,2012,5.0,4.0,PF
+Morocco,2013,5.0,4.0,PF
+Morocco,2014,5.0,4.0,PF
+Mozambique,2000,3.0,4.0,PF
+Mozambique,2001,3.0,4.0,PF
+Mozambique,2002,3.0,4.0,PF
+Mozambique,2003,3.0,4.0,PF
+Mozambique,2004,3.0,4.0,PF
+Mozambique,2005,3.0,4.0,PF
+Mozambique,2006,3.0,4.0,PF
+Mozambique,2007,3.0,3.0,PF
+Mozambique,2008,3.0,3.0,PF
+Mozambique,2009,4.0,3.0,PF
+Mozambique,2010,4.0,3.0,PF
+Mozambique,2011,4.0,3.0,PF
+Mozambique,2012,4.0,3.0,PF
+Mozambique,2013,4.0,3.0,PF
+Mozambique,2014,4.0,3.0,PF
+Namibia,2000,2.0,3.0,F
+Namibia,2001,2.0,3.0,F
+Namibia,2002,2.0,3.0,F
+Namibia,2003,2.0,3.0,F
+Namibia,2004,2.0,3.0,F
+Namibia,2005,2.0,2.0,F
+Namibia,2006,2.0,2.0,F
+Namibia,2007,2.0,2.0,F
+Namibia,2008,2.0,2.0,F
+Namibia,2009,2.0,2.0,F
+Namibia,2010,2.0,2.0,F
+Namibia,2011,2.0,2.0,F
+Namibia,2012,2.0,2.0,F
+Namibia,2013,2.0,2.0,F
+Namibia,2014,2.0,2.0,F
+Niger,2000,4.0,4.0,PF
+Niger,2001,4.0,4.0,PF
+Niger,2002,4.0,4.0,PF
+Niger,2003,4.0,4.0,PF
+Niger,2004,3.0,3.0,PF
+Niger,2005,3.0,3.0,PF
+Niger,2006,3.0,3.0,PF
+Niger,2007,3.0,4.0,PF
+Niger,2008,3.0,4.0,PF
+Niger,2009,5.0,4.0,PF
+Niger,2010,5.0,4.0,PF
+Niger,2011,3.0,4.0,PF
+Niger,2012,3.0,4.0,PF
+Niger,2013,3.0,4.0,PF
+Niger,2014,3.0,4.0,PF
+Nigeria,2000,4.0,4.0,PF
+Nigeria,2001,4.0,5.0,PF
+Nigeria,2002,4.0,5.0,PF
+Nigeria,2003,4.0,4.0,PF
+Nigeria,2004,4.0,4.0,PF
+Nigeria,2005,4.0,4.0,PF
+Nigeria,2006,4.0,4.0,PF
+Nigeria,2007,4.0,4.0,PF
+Nigeria,2008,5.0,4.0,PF
+Nigeria,2009,5.0,4.0,PF
+Nigeria,2010,4.0,4.0,PF
+Nigeria,2011,4.0,4.0,PF
+Nigeria,2012,4.0,4.0,PF
+Nigeria,2013,4.0,4.0,PF
+Nigeria,2014,4.0,5.0,PF
+Oman,2000,6.0,5.0,NF
+Oman,2001,6.0,5.0,NF
+Oman,2002,6.0,5.0,NF
+Oman,2003,6.0,5.0,NF
+Oman,2004,6.0,5.0,NF
+Oman,2005,6.0,5.0,NF
+Oman,2006,6.0,5.0,NF
+Oman,2007,6.0,5.0,NF
+Oman,2008,6.0,5.0,NF
+Oman,2009,6.0,5.0,NF
+Oman,2010,6.0,5.0,NF
+Oman,2011,6.0,5.0,NF
+Oman,2012,6.0,5.0,NF
+Oman,2013,6.0,5.0,NF
+Oman,2014,6.0,5.0,NF
+Qatar,2000,6.0,6.0,NF
+Qatar,2001,6.0,6.0,NF
+Qatar,2002,6.0,6.0,NF
+Qatar,2003,6.0,6.0,NF
+Qatar,2004,6.0,5.0,NF
+Qatar,2005,6.0,5.0,NF
+Qatar,2006,6.0,5.0,NF
+Qatar,2007,6.0,5.0,NF
+Qatar,2008,6.0,5.0,NF
+Qatar,2009,6.0,5.0,NF
+Qatar,2010,6.0,5.0,NF
+Qatar,2011,6.0,5.0,NF
+Qatar,2012,6.0,5.0,NF
+Qatar,2013,6.0,5.0,NF
+Qatar,2014,6.0,5.0,NF
+Rwanda,2000,7.0,6.0,NF
+Rwanda,2001,7.0,6.0,NF
+Rwanda,2002,7.0,5.0,NF
+Rwanda,2003,6.0,5.0,NF
+Rwanda,2004,6.0,5.0,NF
+Rwanda,2005,6.0,5.0,NF
+Rwanda,2006,6.0,5.0,NF
+Rwanda,2007,6.0,5.0,NF
+Rwanda,2008,6.0,5.0,NF
+Rwanda,2009,6.0,5.0,NF
+Rwanda,2010,6.0,5.0,NF
+Rwanda,2011,6.0,5.0,NF
+Rwanda,2012,6.0,6.0,NF
+Rwanda,2013,6.0,5.0,NF
+Rwanda,2014,6.0,6.0,NF
+Sao Tome and Principe,2000,1.0,2.0,F
+Sao Tome and Principe,2001,1.0,2.0,F
+Sao Tome and Principe,2002,1.0,2.0,F
+Sao Tome and Principe,2003,2.0,2.0,F
+Sao Tome and Principe,2004,2.0,2.0,F
+Sao Tome and Principe,2005,2.0,2.0,F
+Sao Tome and Principe,2006,2.0,2.0,F
+Sao Tome and Principe,2007,2.0,2.0,F
+Sao Tome and Principe,2008,2.0,2.0,F
+Sao Tome and Principe,2009,2.0,2.0,F
+Sao Tome and Principe,2010,2.0,2.0,F
+Sao Tome and Principe,2011,2.0,2.0,F
+Sao Tome and Principe,2012,2.0,2.0,F
+Sao Tome and Principe,2013,2.0,2.0,F
+Sao Tome and Principe,2014,2.0,2.0,F
+Saudi Arabia,2000,7.0,7.0,NF
+Saudi Arabia,2001,7.0,7.0,NF
+Saudi Arabia,2002,7.0,7.0,NF
+Saudi Arabia,2003,7.0,7.0,NF
+Saudi Arabia,2004,7.0,7.0,NF
+Saudi Arabia,2005,7.0,6.0,NF
+Saudi Arabia,2006,7.0,6.0,NF
+Saudi Arabia,2007,7.0,6.0,NF
+Saudi Arabia,2008,7.0,6.0,NF
+Saudi Arabia,2009,7.0,6.0,NF
+Saudi Arabia,2010,7.0,6.0,NF
+Saudi Arabia,2011,7.0,7.0,NF
+Saudi Arabia,2012,7.0,7.0,NF
+Saudi Arabia,2013,7.0,7.0,NF
+Saudi Arabia,2014,7.0,7.0,NF
+Senegal,2000,3.0,4.0,PF
+Senegal,2001,3.0,4.0,PF
+Senegal,2002,2.0,3.0,F
+Senegal,2003,2.0,3.0,F
+Senegal,2004,2.0,3.0,F
+Senegal,2005,2.0,3.0,F
+Senegal,2006,2.0,3.0,F
+Senegal,2007,2.0,3.0,F
+Senegal,2008,3.0,3.0,PF
+Senegal,2009,3.0,3.0,PF
+Senegal,2010,3.0,3.0,PF
+Senegal,2011,3.0,3.0,PF
+Senegal,2012,2.0,3.0,F
+Senegal,2013,2.0,2.0,F
+Senegal,2014,2.0,2.0,F
+Sierra Leone,2000,4.0,5.0,PF
+Sierra Leone,2001,4.0,5.0,PF
+Sierra Leone,2002,4.0,4.0,PF
+Sierra Leone,2003,4.0,3.0,PF
+Sierra Leone,2004,4.0,3.0,PF
+Sierra Leone,2005,4.0,3.0,PF
+Sierra Leone,2006,4.0,3.0,PF
+Sierra Leone,2007,3.0,3.0,PF
+Sierra Leone,2008,3.0,3.0,PF
+Sierra Leone,2009,3.0,3.0,PF
+Sierra Leone,2010,3.0,3.0,PF
+Sierra Leone,2011,3.0,3.0,PF
+Sierra Leone,2012,2.0,3.0,F
+Sierra Leone,2013,3.0,3.0,PF
+Sierra Leone,2014,3.0,3.0,PF
+Somalia,2000,6.0,7.0,NF
+Somalia,2001,6.0,7.0,NF
+Somalia,2002,6.0,7.0,NF
+Somalia,2003,6.0,7.0,NF
+Somalia,2004,6.0,7.0,NF
+Somalia,2005,6.0,7.0,NF
+Somalia,2006,7.0,7.0,NF
+Somalia,2007,7.0,7.0,NF
+Somalia,2008,7.0,7.0,NF
+Somalia,2009,7.0,7.0,NF
+Somalia,2010,7.0,7.0,NF
+Somalia,2011,7.0,7.0,NF
+Somalia,2012,7.0,7.0,NF
+Somalia,2013,7.0,7.0,NF
+Somalia,2014,7.0,7.0,NF
+South Africa,2000,1.0,2.0,F
+South Africa,2001,1.0,2.0,F
+South Africa,2002,1.0,2.0,F
+South Africa,2003,1.0,2.0,F
+South Africa,2004,1.0,2.0,F
+South Africa,2005,1.0,2.0,F
+South Africa,2006,2.0,2.0,F
+South Africa,2007,2.0,2.0,F
+South Africa,2008,2.0,2.0,F
+South Africa,2009,2.0,2.0,F
+South Africa,2010,2.0,2.0,F
+South Africa,2011,2.0,2.0,F
+South Africa,2012,2.0,2.0,F
+South Africa,2013,2.0,2.0,F
+South Africa,2014,2.0,2.0,F
+South Sudan,2011,6.0,5.0,NF
+South Sudan,2012,6.0,5.0,NF
+South Sudan,2013,6.0,6.0,NF
+South Sudan,2014,7.0,6.0,NF
+Sudan,2000,7.0,7.0,NF
+Sudan,2001,7.0,7.0,NF
+Sudan,2002,7.0,7.0,NF
+Sudan,2003,7.0,7.0,NF
+Sudan,2004,7.0,7.0,NF
+Sudan,2005,7.0,7.0,NF
+Sudan,2006,7.0,7.0,NF
+Sudan,2007,7.0,7.0,NF
+Sudan,2008,7.0,7.0,NF
+Sudan,2009,7.0,7.0,NF
+Sudan,2010,7.0,7.0,NF
+Sudan,2011,7.0,7.0,NF
+Sudan,2012,7.0,7.0,NF
+Sudan,2013,7.0,7.0,NF
+Sudan,2014,7.0,7.0,NF
+Swaziland,2000,6.0,5.0,NF
+Swaziland,2001,6.0,5.0,NF
+Swaziland,2002,6.0,5.0,NF
+Swaziland,2003,7.0,5.0,NF
+Swaziland,2004,7.0,5.0,NF
+Swaziland,2005,7.0,5.0,NF
+Swaziland,2006,7.0,5.0,NF
+Swaziland,2007,7.0,5.0,NF
+Swaziland,2008,7.0,5.0,NF
+Swaziland,2009,7.0,5.0,NF
+Swaziland,2010,7.0,5.0,NF
+Swaziland,2011,7.0,5.0,NF
+Swaziland,2012,7.0,5.0,NF
+Swaziland,2013,7.0,5.0,NF
+Swaziland,2014,7.0,5.0,NF
+Syria,2000,7.0,7.0,NF
+Syria,2001,7.0,7.0,NF
+Syria,2002,7.0,7.0,NF
+Syria,2003,7.0,7.0,NF
+Syria,2004,7.0,7.0,NF
+Syria,2005,7.0,7.0,NF
+Syria,2006,7.0,6.0,NF
+Syria,2007,7.0,6.0,NF
+Syria,2008,7.0,6.0,NF
+Syria,2009,7.0,6.0,NF
+Syria,2010,7.0,6.0,NF
+Syria,2011,7.0,7.0,NF
+Syria,2012,7.0,7.0,NF
+Syria,2013,7.0,7.0,NF
+Syria,2014,7.0,7.0,NF
+Tanzania,2000,4.0,4.0,PF
+Tanzania,2001,4.0,4.0,PF
+Tanzania,2002,4.0,3.0,PF
+Tanzania,2003,4.0,3.0,PF
+Tanzania,2004,4.0,3.0,PF
+Tanzania,2005,4.0,3.0,PF
+Tanzania,2006,4.0,3.0,PF
+Tanzania,2007,4.0,3.0,PF
+Tanzania,2008,4.0,3.0,PF
+Tanzania,2009,4.0,3.0,PF
+Tanzania,2010,3.0,3.0,PF
+Tanzania,2011,3.0,3.0,PF
+Tanzania,2012,3.0,3.0,PF
+Tanzania,2013,3.0,3.0,PF
+Tanzania,2014,3.0,3.0,PF
+The Gambia,2000,7.0,5.0,NF
+The Gambia,2001,5.0,5.0,PF
+The Gambia,2002,4.0,4.0,PF
+The Gambia,2003,4.0,4.0,PF
+The Gambia,2004,4.0,4.0,PF
+The Gambia,2005,5.0,4.0,PF
+The Gambia,2006,5.0,4.0,PF
+The Gambia,2007,5.0,4.0,PF
+The Gambia,2008,5.0,4.0,PF
+The Gambia,2009,5.0,5.0,PF
+The Gambia,2010,5.0,5.0,PF
+The Gambia,2011,6.0,5.0,NF
+The Gambia,2012,6.0,6.0,NF
+The Gambia,2013,6.0,6.0,NF
+The Gambia,2014,6.0,6.0,NF
+Togo,2000,5.0,5.0,PF
+Togo,2001,5.0,5.0,PF
+Togo,2002,6.0,5.0,NF
+Togo,2003,6.0,5.0,NF
+Togo,2004,6.0,5.0,NF
+Togo,2005,6.0,5.0,NF
+Togo,2006,6.0,5.0,NF
+Togo,2007,5.0,5.0,PF
+Togo,2008,5.0,5.0,PF
+Togo,2009,5.0,4.0,PF
+Togo,2010,5.0,4.0,PF
+Togo,2011,5.0,4.0,PF
+Togo,2012,5.0,4.0,PF
+Togo,2013,4.0,4.0,PF
+Togo,2014,4.0,4.0,PF
+Tunisia,2000,6.0,5.0,NF
+Tunisia,2001,6.0,5.0,NF
+Tunisia,2002,6.0,5.0,NF
+Tunisia,2003,6.0,5.0,NF
+Tunisia,2004,6.0,5.0,NF
+Tunisia,2005,6.0,5.0,NF
+Tunisia,2006,6.0,5.0,NF
+Tunisia,2007,7.0,5.0,NF
+Tunisia,2008,7.0,5.0,NF
+Tunisia,2009,7.0,5.0,NF
+Tunisia,2010,7.0,5.0,NF
+Tunisia,2011,3.0,4.0,PF
+Tunisia,2012,3.0,4.0,PF
+Tunisia,2013,3.0,3.0,PF
+Tunisia,2014,1.0,3.0,F
+Turkey,2000,4.0,5.0,PF
+Turkey,2001,4.0,5.0,PF
+Turkey,2002,3.0,4.0,PF
+Turkey,2003,3.0,4.0,PF
+Turkey,2004,3.0,3.0,PF
+Turkey,2005,3.0,3.0,PF
+Turkey,2006,3.0,3.0,PF
+Turkey,2007,3.0,3.0,PF
+Turkey,2008,3.0,3.0,PF
+Turkey,2009,3.0,3.0,PF
+Turkey,2010,3.0,3.0,PF
+Turkey,2011,3.0,3.0,PF
+Turkey,2012,3.0,4.0,PF
+Turkey,2013,3.0,4.0,PF
+Turkey,2014,3.0,4.0,PF
+Uganda,2000,6.0,5.0,PF
+Uganda,2001,6.0,5.0,PF
+Uganda,2002,6.0,4.0,PF
+Uganda,2003,5.0,4.0,PF
+Uganda,2004,5.0,4.0,PF
+Uganda,2005,5.0,4.0,PF
+Uganda,2006,5.0,4.0,PF
+Uganda,2007,5.0,4.0,PF
+Uganda,2008,5.0,4.0,PF
+Uganda,2009,5.0,4.0,PF
+Uganda,2010,5.0,4.0,PF
+Uganda,2011,5.0,4.0,PF
+Uganda,2012,5.0,4.0,PF
+Uganda,2013,6.0,4.0,PF
+Uganda,2014,6.0,5.0,NF
+United Arab Emirates,2000,6.0,5.0,NF
+United Arab Emirates,2001,6.0,5.0,NF
+United Arab Emirates,2002,6.0,5.0,NF
+United Arab Emirates,2003,6.0,6.0,NF
+United Arab Emirates,2004,6.0,6.0,NF
+United Arab Emirates,2005,6.0,6.0,NF
+United Arab Emirates,2006,6.0,5.0,NF
+United Arab Emirates,2007,6.0,5.0,NF
+United Arab Emirates,2008,6.0,5.0,NF
+United Arab Emirates,2009,6.0,5.0,NF
+United Arab Emirates,2010,6.0,5.0,NF
+United Arab Emirates,2011,6.0,6.0,NF
+United Arab Emirates,2012,6.0,6.0,NF
+United Arab Emirates,2013,6.0,6.0,NF
+United Arab Emirates,2014,6.0,6.0,NF
+Yemen,2000,5.0,6.0,NF
+Yemen,2001,6.0,6.0,NF
+Yemen,2002,6.0,5.0,NF
+Yemen,2003,5.0,5.0,PF
+Yemen,2004,5.0,5.0,PF
+Yemen,2005,5.0,5.0,PF
+Yemen,2006,5.0,5.0,PF
+Yemen,2007,5.0,5.0,PF
+Yemen,2008,5.0,5.0,PF
+Yemen,2009,6.0,5.0,NF
+Yemen,2010,6.0,5.0,NF
+Yemen,2011,6.0,6.0,NF
+Yemen,2012,6.0,6.0,NF
+Yemen,2013,6.0,6.0,NF
+Yemen,2014,6.0,6.0,NF
+Zambia,2000,5.0,4.0,PF
+Zambia,2001,5.0,4.0,PF
+Zambia,2002,4.0,4.0,PF
+Zambia,2003,4.0,4.0,PF
+Zambia,2004,4.0,4.0,PF
+Zambia,2005,4.0,4.0,PF
+Zambia,2006,3.0,4.0,PF
+Zambia,2007,3.0,4.0,PF
+Zambia,2008,3.0,3.0,PF
+Zambia,2009,3.0,4.0,PF
+Zambia,2010,3.0,4.0,PF
+Zambia,2011,3.0,4.0,PF
+Zambia,2012,3.0,4.0,PF
+Zambia,2013,3.0,4.0,PF
+Zambia,2014,3.0,4.0,PF
+Zimbabwe,2000,6.0,5.0,PF
+Zimbabwe,2001,6.0,6.0,NF
+Zimbabwe,2002,6.0,6.0,NF
+Zimbabwe,2003,6.0,6.0,NF
+Zimbabwe,2004,7.0,6.0,NF
+Zimbabwe,2005,7.0,6.0,NF
+Zimbabwe,2006,7.0,6.0,NF
+Zimbabwe,2007,7.0,6.0,NF
+Zimbabwe,2008,7.0,6.0,NF
+Zimbabwe,2009,6.0,6.0,NF
+Zimbabwe,2010,6.0,6.0,NF
+Zimbabwe,2011,6.0,6.0,NF
+Zimbabwe,2012,6.0,6.0,NF
+Zimbabwe,2013,5.0,6.0,NF
+Zimbabwe,2014,5.0,6.0,NF
+Palestine,2000,6.0,6.0,NF
+Palestine,2001,6.0,6.0,NF
+Palestine,2002,6.0,6.0,NF
+Palestine,2003,6.0,6.0,NF
+Palestine,2004,6.0,6.0,NF
+Palestine,2005,6.0,5.0,NF
+Palestine,2006,6.0,5.0,NF
+Palestine,2007,6.0,6.0,NF
+Palestine,2008,6.0,6.0,NF
+Palestine,2009,6.0,6.0,NF

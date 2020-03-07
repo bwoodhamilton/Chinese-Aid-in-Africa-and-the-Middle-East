@@ -1,0 +1,1 @@
+https://freedomhouse.org/content/freedom-world-data-and-resources

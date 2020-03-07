@@ -1,0 +1,1089 @@
+,country,year,pr_score,cl_score,fh_status
+0,Algeria,2000,6,5,NF
+1,Algeria,2001,6,5,NF
+2,Algeria,2002,6,5,NF
+3,Algeria,2003,6,5,NF
+4,Algeria,2004,6,5,NF
+5,Algeria,2005,6,5,NF
+6,Algeria,2006,6,5,NF
+7,Algeria,2007,6,5,NF
+8,Algeria,2008,6,5,NF
+9,Algeria,2009,6,5,NF
+10,Algeria,2010,6,5,NF
+11,Algeria,2011,6,5,NF
+12,Algeria,2012,6,5,NF
+13,Algeria,2013,6,,NF
+14,Algeria,2014,6,5,NF
+15,Angola,2000,6,6,NF
+16,Angola,2001,6,6,NF
+17,Angola,2002,6,5,NF
+18,Angola,2003,6,5,NF
+19,Angola,2004,6,5,NF
+20,Angola,2005,6,5,NF
+21,Angola,2006,6,5,NF
+22,Angola,2007,6,5,NF
+23,Angola,2008,6,5,NF
+24,Angola,2009,6,5,NF
+25,Angola,2010,6,5,NF
+26,Angola,2011,6,5,NF
+27,Angola,2012,6,5,NF
+28,Angola,2013,6,,NF
+29,Angola,2014,6,5,NF
+30,Bahrain,2000,7,6,NF
+31,Bahrain,2001,6,5,NF
+32,Bahrain,2002,5,5,PF
+33,Bahrain,2003,5,5,PF
+34,Bahrain,2004,5,5,PF
+35,Bahrain,2005,5,5,PF
+36,Bahrain,2006,5,5,PF
+37,Bahrain,2007,5,5,PF
+38,Bahrain,2008,5,5,PF
+39,Bahrain,2009,6,5,NF
+40,Bahrain,2010,6,5,NF
+41,Bahrain,2011,6,6,NF
+42,Bahrain,2012,6,6,NF
+43,Bahrain,2013,6,,NF
+44,Bahrain,2014,7,6,NF
+45,Benin,2000,2,2,F
+46,Benin,2001,3,2,F
+47,Benin,2002,3,2,F
+48,Benin,2003,2,2,F
+49,Benin,2004,2,2,F
+50,Benin,2005,2,2,F
+51,Benin,2006,2,2,F
+52,Benin,2007,2,2,F
+53,Benin,2008,2,2,F
+54,Benin,2009,2,2,F
+55,Benin,2010,2,2,F
+56,Benin,2011,2,2,F
+57,Benin,2012,2,2,F
+58,Benin,2013,2,,F
+59,Benin,2014,2,2,F
+60,Botswana,2000,2,2,F
+61,Botswana,2001,2,2,F
+62,Botswana,2002,2,2,F
+63,Botswana,2003,2,2,F
+64,Botswana,2004,2,2,F
+65,Botswana,2005,2,2,F
+66,Botswana,2006,2,2,F
+67,Botswana,2007,2,2,F
+68,Botswana,2008,2,2,F
+69,Botswana,2009,3,2,F
+70,Botswana,2010,3,2,F
+71,Botswana,2011,3,2,F
+72,Botswana,2012,3,2,F
+73,Botswana,2013,3,,F
+74,Botswana,2014,3,2,F
+75,Brazil,2000,3,3,PF
+76,Brazil,2001,3,3,PF
+77,Brazil,2002,2,3,F
+78,Brazil,2003,2,3,F
+79,Brazil,2004,2,3,F
+80,Brazil,2005,2,2,F
+81,Brazil,2006,2,2,F
+82,Brazil,2007,2,2,F
+83,Brazil,2008,2,2,F
+84,Brazil,2009,2,2,F
+85,Brazil,2010,2,2,F
+86,Brazil,2011,2,2,F
+87,Brazil,2012,2,2,F
+88,Brazil,2013,2,,F
+89,Brazil,2014,2,2,F
+90,Burkina Faso,2000,4,4,PF
+91,Burkina Faso,2001,4,4,PF
+92,Burkina Faso,2002,4,4,PF
+93,Burkina Faso,2003,4,4,PF
+94,Burkina Faso,2004,5,4,PF
+95,Burkina Faso,2005,5,3,PF
+96,Burkina Faso,2006,5,3,PF
+97,Burkina Faso,2007,5,3,PF
+98,Burkina Faso,2008,5,3,PF
+99,Burkina Faso,2009,5,3,PF
+100,Burkina Faso,2010,5,3,PF
+101,Burkina Faso,2011,5,3,PF
+102,Burkina Faso,2012,5,3,PF
+103,Burkina Faso,2013,5,,PF
+104,Burkina Faso,2014,6,3,PF
+105,Burundi,2000,6,6,NF
+106,Burundi,2001,6,6,NF
+107,Burundi,2002,6,5,NF
+108,Burundi,2003,5,5,PF
+109,Burundi,2004,5,5,PF
+110,Burundi,2005,3,5,PF
+111,Burundi,2006,4,5,PF
+112,Burundi,2007,4,5,PF
+113,Burundi,2008,4,5,PF
+114,Burundi,2009,4,5,PF
+115,Burundi,2010,5,5,PF
+116,Burundi,2011,5,5,PF
+117,Burundi,2012,5,5,PF
+118,Burundi,2013,5,,PF
+119,Burundi,2014,6,5,NF
+120,Cameroon,2000,7,6,NF
+121,Cameroon,2001,6,6,NF
+122,Cameroon,2002,6,6,NF
+123,Cameroon,2003,6,6,NF
+124,Cameroon,2004,6,6,NF
+125,Cameroon,2005,6,6,NF
+126,Cameroon,2006,6,6,NF
+127,Cameroon,2007,6,6,NF
+128,Cameroon,2008,6,6,NF
+129,Cameroon,2009,6,6,NF
+130,Cameroon,2010,6,6,NF
+131,Cameroon,2011,6,6,NF
+132,Cameroon,2012,6,6,NF
+133,Cameroon,2013,6,,NF
+134,Cameroon,2014,6,6,NF
+135,Cape Verde,2000,1,2,F
+136,Cape Verde,2001,1,2,F
+137,Cape Verde,2002,1,2,F
+138,Cape Verde,2003,1,1,F
+139,Cape Verde,2004,1,1,F
+140,Cape Verde,2005,1,1,F
+141,Cape Verde,2006,1,1,F
+142,Cape Verde,2007,1,1,F
+143,Cape Verde,2008,1,1,F
+144,Cape Verde,2009,1,1,F
+145,Cape Verde,2010,1,1,F
+146,Cape Verde,2011,1,1,F
+147,Cape Verde,2012,1,1,F
+148,Cape Verde,2013,1,,F
+149,Cape Verde,2014,1,1,F
+150,Central African Republic,2000,3,4,PF
+151,Central African Republic,2001,5,5,PF
+152,Central African Republic,2002,5,5,PF
+153,Central African Republic,2003,7,5,NF
+154,Central African Republic,2004,6,5,NF
+155,Central African Republic,2005,5,4,PF
+156,Central African Republic,2006,5,4,PF
+157,Central African Republic,2007,5,5,PF
+158,Central African Republic,2008,5,5,PF
+159,Central African Republic,2009,5,5,PF
+160,Central African Republic,2010,5,5,PF
+161,Central African Republic,2011,5,5,PF
+162,Central African Republic,2012,5,5,PF
+163,Central African Republic,2013,7,,NF
+164,Central African Republic,2014,7,7,NF
+165,Chad,2000,6,5,NF
+166,Chad,2001,6,5,NF
+167,Chad,2002,6,5,NF
+168,Chad,2003,6,5,NF
+169,Chad,2004,6,5,NF
+170,Chad,2005,6,5,NF
+171,Chad,2006,6,6,NF
+172,Chad,2007,7,6,NF
+173,Chad,2008,7,6,NF
+174,Chad,2009,7,6,NF
+175,Chad,2010,7,6,NF
+176,Chad,2011,7,6,NF
+177,Chad,2012,7,6,NF
+178,Chad,2013,7,,NF
+179,Chad,2014,7,6,NF
+180,Comoros,2000,6,4,PF
+181,Comoros,2001,6,4,PF
+182,Comoros,2002,5,4,PF
+183,Comoros,2003,5,4,PF
+184,Comoros,2004,4,4,PF
+185,Comoros,2005,4,4,PF
+186,Comoros,2006,3,4,PF
+187,Comoros,2007,4,4,PF
+188,Comoros,2008,3,4,PF
+189,Comoros,2009,3,4,PF
+190,Comoros,2010,3,4,PF
+191,Comoros,2011,3,4,PF
+192,Comoros,2012,3,4,PF
+193,Comoros,2013,3,,PF
+194,Comoros,2014,3,4,PF
+195,Congo (Brazzaville),2000,6,4,PF
+196,Congo (Brazzaville),2001,5,4,PF
+197,Congo (Brazzaville),2002,6,4,PF
+198,Congo (Brazzaville),2003,5,4,PF
+199,Congo (Brazzaville),2004,5,4,PF
+200,Congo (Brazzaville),2005,5,5,PF
+201,Congo (Brazzaville),2006,6,5,NF
+202,Congo (Brazzaville),2007,6,5,NF
+203,Congo (Brazzaville),2008,6,5,NF
+204,Congo (Brazzaville),2009,6,5,NF
+205,Congo (Brazzaville),2010,6,5,NF
+206,Congo (Brazzaville),2011,6,5,NF
+207,Congo (Brazzaville),2012,6,5,NF
+208,Congo (Brazzaville),2013,6,,NF
+209,Congo (Brazzaville),2014,6,5,NF
+210,Congo (Kinshasa),2000,7,6,NF
+211,Congo (Kinshasa),2001,6,6,NF
+212,Congo (Kinshasa),2002,6,6,NF
+213,Congo (Kinshasa),2003,6,6,NF
+214,Congo (Kinshasa),2004,6,6,NF
+215,Congo (Kinshasa),2005,6,6,NF
+216,Congo (Kinshasa),2006,5,6,NF
+217,Congo (Kinshasa),2007,5,6,NF
+218,Congo (Kinshasa),2008,6,6,NF
+219,Congo (Kinshasa),2009,6,6,NF
+220,Congo (Kinshasa),2010,6,6,NF
+221,Congo (Kinshasa),2011,6,6,NF
+222,Congo (Kinshasa),2012,6,6,NF
+223,Congo (Kinshasa),2013,6,,NF
+224,Congo (Kinshasa),2014,6,6,NF
+225,Cote d'Ivoire,2000,6,5,PF
+226,Cote d'Ivoire,2001,5,4,PF
+227,Cote d'Ivoire,2002,6,6,NF
+228,Cote d'Ivoire,2003,6,5,NF
+229,Cote d'Ivoire,2004,6,6,NF
+230,Cote d'Ivoire,2005,6,6,NF
+231,Cote d'Ivoire,2006,7,6,NF
+232,Cote d'Ivoire,2007,7,5,NF
+233,Cote d'Ivoire,2008,6,5,NF
+234,Cote d'Ivoire,2009,6,5,NF
+235,Cote d'Ivoire,2010,7,6,NF
+236,Cote d'Ivoire,2011,6,6,NF
+237,Cote d'Ivoire,2012,5,5,PF
+238,Cote d'Ivoire,2013,5,,PF
+239,Cote d'Ivoire,2014,5,4,PF
+240,Djibouti,2000,4,5,PF
+241,Djibouti,2001,4,5,PF
+242,Djibouti,2002,4,5,PF
+243,Djibouti,2003,5,5,PF
+244,Djibouti,2004,5,5,PF
+245,Djibouti,2005,5,5,PF
+246,Djibouti,2006,5,5,PF
+247,Djibouti,2007,5,5,PF
+248,Djibouti,2008,5,5,PF
+249,Djibouti,2009,5,5,PF
+250,Djibouti,2010,6,5,NF
+251,Djibouti,2011,6,5,NF
+252,Djibouti,2012,6,5,NF
+253,Djibouti,2013,6,,NF
+254,Djibouti,2014,6,5,NF
+255,Egypt,2000,6,5,NF
+256,Egypt,2001,6,6,NF
+257,Egypt,2002,6,6,NF
+258,Egypt,2003,6,6,NF
+259,Egypt,2004,6,5,NF
+260,Egypt,2005,6,5,NF
+261,Egypt,2006,6,5,NF
+262,Egypt,2007,6,5,NF
+263,Egypt,2008,6,5,NF
+264,Egypt,2009,6,5,NF
+265,Egypt,2010,6,5,NF
+266,Egypt,2011,6,5,NF
+267,Egypt,2012,5,5,PF
+268,Egypt,2013,6,,NF
+269,Egypt,2014,6,5,NF
+270,Equatorial Guinea,2000,7,7,NF
+271,Equatorial Guinea,2001,6,6,NF
+272,Equatorial Guinea,2002,7,6,NF
+273,Equatorial Guinea,2003,7,6,NF
+274,Equatorial Guinea,2004,7,6,NF
+275,Equatorial Guinea,2005,7,6,NF
+276,Equatorial Guinea,2006,7,6,NF
+277,Equatorial Guinea,2007,7,6,NF
+278,Equatorial Guinea,2008,7,7,NF
+279,Equatorial Guinea,2009,7,7,NF
+280,Equatorial Guinea,2010,7,7,NF
+281,Equatorial Guinea,2011,7,7,NF
+282,Equatorial Guinea,2012,7,7,NF
+283,Equatorial Guinea,2013,7,,NF
+284,Equatorial Guinea,2014,7,7,NF
+285,Eritrea,2000,7,5,NF
+286,Eritrea,2001,7,6,NF
+287,Eritrea,2002,7,6,NF
+288,Eritrea,2003,7,6,NF
+289,Eritrea,2004,7,6,NF
+290,Eritrea,2005,7,6,NF
+291,Eritrea,2006,7,6,NF
+292,Eritrea,2007,7,6,NF
+293,Eritrea,2008,7,6,NF
+294,Eritrea,2009,7,7,NF
+295,Eritrea,2010,7,7,NF
+296,Eritrea,2011,7,7,NF
+297,Eritrea,2012,7,7,NF
+298,Eritrea,2013,7,,NF
+299,Eritrea,2014,7,7,NF
+300,Ethiopia,2000,5,5,PF
+301,Ethiopia,2001,5,5,PF
+302,Ethiopia,2002,5,5,PF
+303,Ethiopia,2003,5,5,PF
+304,Ethiopia,2004,5,5,PF
+305,Ethiopia,2005,5,5,PF
+306,Ethiopia,2006,5,5,PF
+307,Ethiopia,2007,5,5,PF
+308,Ethiopia,2008,5,5,PF
+309,Ethiopia,2009,5,5,PF
+310,Ethiopia,2010,6,6,NF
+311,Ethiopia,2011,6,6,NF
+312,Ethiopia,2012,6,6,NF
+313,Ethiopia,2013,6,,NF
+314,Ethiopia,2014,6,6,NF
+315,Gabon,2000,5,4,PF
+316,Gabon,2001,5,4,PF
+317,Gabon,2002,5,4,PF
+318,Gabon,2003,5,4,PF
+319,Gabon,2004,5,4,PF
+320,Gabon,2005,6,4,PF
+321,Gabon,2006,6,4,PF
+322,Gabon,2007,6,4,PF
+323,Gabon,2008,6,4,PF
+324,Gabon,2009,6,5,NF
+325,Gabon,2010,6,5,NF
+326,Gabon,2011,6,5,NF
+327,Gabon,2012,6,5,NF
+328,Gabon,2013,6,,NF
+329,Gabon,2014,6,5,NF
+330,Ghana,2000,2,3,F
+331,Ghana,2001,2,3,F
+332,Ghana,2002,2,3,F
+333,Ghana,2003,2,2,F
+334,Ghana,2004,2,2,F
+335,Ghana,2005,1,2,F
+336,Ghana,2006,1,2,F
+337,Ghana,2007,1,2,F
+338,Ghana,2008,1,2,F
+339,Ghana,2009,1,2,F
+340,Ghana,2010,1,2,F
+341,Ghana,2011,1,2,F
+342,Ghana,2012,1,2,F
+343,Ghana,2013,1,,F
+344,Ghana,2014,1,2,F
+345,Guinea,2000,6,5,NF
+346,Guinea,2001,6,5,NF
+347,Guinea,2002,6,5,NF
+348,Guinea,2003,6,5,NF
+349,Guinea,2004,6,5,NF
+350,Guinea,2005,6,5,NF
+351,Guinea,2006,6,5,NF
+352,Guinea,2007,6,5,NF
+353,Guinea,2008,7,5,NF
+354,Guinea,2009,7,6,NF
+355,Guinea,2010,5,5,PF
+356,Guinea,2011,5,5,PF
+357,Guinea,2012,5,5,PF
+358,Guinea,2013,5,,PF
+359,Guinea,2014,5,5,PF
+360,Guinea-Bissau,2000,4,5,PF
+361,Guinea-Bissau,2001,4,5,PF
+362,Guinea-Bissau,2002,4,5,PF
+363,Guinea-Bissau,2003,6,4,PF
+364,Guinea-Bissau,2004,4,4,PF
+365,Guinea-Bissau,2005,3,4,PF
+366,Guinea-Bissau,2006,4,4,PF
+367,Guinea-Bissau,2007,4,4,PF
+368,Guinea-Bissau,2008,4,4,PF
+369,Guinea-Bissau,2009,4,4,PF
+370,Guinea-Bissau,2010,4,4,PF
+371,Guinea-Bissau,2011,4,4,PF
+372,Guinea-Bissau,2012,6,5,NF
+373,Guinea-Bissau,2013,6,,NF
+374,Guinea-Bissau,2014,5,5,PF
+375,Iran,2000,6,6,NF
+376,Iran,2001,6,6,NF
+377,Iran,2002,6,6,NF
+378,Iran,2003,6,6,NF
+379,Iran,2004,6,6,NF
+380,Iran,2005,6,6,NF
+381,Iran,2006,6,6,NF
+382,Iran,2007,6,6,NF
+383,Iran,2008,6,6,NF
+384,Iran,2009,6,6,NF
+385,Iran,2010,6,6,NF
+386,Iran,2011,6,6,NF
+387,Iran,2012,6,6,NF
+388,Iran,2013,6,,NF
+389,Iran,2014,6,6,NF
+390,Iraq,2000,7,7,NF
+391,Iraq,2001,7,7,NF
+392,Iraq,2002,7,7,NF
+393,Iraq,2003,7,5,NF
+394,Iraq,2004,7,5,NF
+395,Iraq,2005,6,5,NF
+396,Iraq,2006,6,6,NF
+397,Iraq,2007,6,6,NF
+398,Iraq,2008,6,6,NF
+399,Iraq,2009,5,6,NF
+400,Iraq,2010,5,6,NF
+401,Iraq,2011,5,6,NF
+402,Iraq,2012,6,6,NF
+403,Iraq,2013,5,,NF
+404,Iraq,2014,6,6,NF
+405,Israel,2000,1,3,F
+406,Israel,2001,1,3,F
+407,Israel,2002,1,3,F
+408,Israel,2003,1,3,F
+409,Israel,2004,1,3,F
+410,Israel,2005,1,2,F
+411,Israel,2006,1,2,F
+412,Israel,2007,1,2,F
+413,Israel,2008,1,2,F
+414,Israel,2009,1,2,F
+415,Israel,2010,1,2,F
+416,Israel,2011,1,2,F
+417,Israel,2012,1,2,F
+418,Israel,2013,1,,F
+419,Israel,2014,1,2,F
+420,Jordan,2000,4,4,PF
+421,Jordan,2001,5,5,PF
+422,Jordan,2002,6,5,PF
+423,Jordan,2003,5,5,PF
+424,Jordan,2004,5,4,PF
+425,Jordan,2005,5,4,PF
+426,Jordan,2006,5,4,PF
+427,Jordan,2007,5,4,PF
+428,Jordan,2008,5,5,PF
+429,Jordan,2009,6,5,NF
+430,Jordan,2010,6,5,NF
+431,Jordan,2011,6,5,NF
+432,Jordan,2012,6,5,NF
+433,Jordan,2013,6,,NF
+434,Jordan,2014,6,5,NF
+435,Kenya,2000,6,5,NF
+436,Kenya,2001,6,5,NF
+437,Kenya,2002,4,4,PF
+438,Kenya,2003,3,3,PF
+439,Kenya,2004,3,3,PF
+440,Kenya,2005,3,3,PF
+441,Kenya,2006,3,3,PF
+442,Kenya,2007,4,3,PF
+443,Kenya,2008,4,3,PF
+444,Kenya,2009,4,4,PF
+445,Kenya,2010,4,3,PF
+446,Kenya,2011,4,3,PF
+447,Kenya,2012,4,4,PF
+448,Kenya,2013,4,,PF
+449,Kenya,2014,4,4,PF
+450,Kuwait,2000,4,5,PF
+451,Kuwait,2001,4,5,PF
+452,Kuwait,2002,4,5,PF
+453,Kuwait,2003,4,5,PF
+454,Kuwait,2004,4,5,PF
+455,Kuwait,2005,4,5,PF
+456,Kuwait,2006,4,4,PF
+457,Kuwait,2007,4,4,PF
+458,Kuwait,2008,4,4,PF
+459,Kuwait,2009,4,4,PF
+460,Kuwait,2010,4,5,PF
+461,Kuwait,2011,4,5,PF
+462,Kuwait,2012,5,5,PF
+463,Kuwait,2013,5,,PF
+464,Kuwait,2014,5,5,PF
+465,Lebanon,2000,6,5,NF
+466,Lebanon,2001,6,5,NF
+467,Lebanon,2002,6,5,NF
+468,Lebanon,2003,6,5,NF
+469,Lebanon,2004,6,5,NF
+470,Lebanon,2005,5,4,PF
+471,Lebanon,2006,5,4,PF
+472,Lebanon,2007,5,4,PF
+473,Lebanon,2008,5,4,PF
+474,Lebanon,2009,5,3,PF
+475,Lebanon,2010,5,3,PF
+476,Lebanon,2011,5,4,PF
+477,Lebanon,2012,5,4,PF
+478,Lebanon,2013,5,,PF
+479,Lebanon,2014,5,4,PF
+480,Lesotho,2000,4,4,PF
+481,Lesotho,2001,4,4,PF
+482,Lesotho,2002,2,3,F
+483,Lesotho,2003,2,3,F
+484,Lesotho,2004,2,3,F
+485,Lesotho,2005,2,3,F
+486,Lesotho,2006,2,3,F
+487,Lesotho,2007,2,3,F
+488,Lesotho,2008,2,3,F
+489,Lesotho,2009,3,3,PF
+490,Lesotho,2010,3,3,PF
+491,Lesotho,2011,3,3,PF
+492,Lesotho,2012,2,3,F
+493,Lesotho,2013,2,,F
+494,Lesotho,2014,2,3,F
+495,Liberia,2000,5,6,PF
+496,Liberia,2001,6,6,NF
+497,Liberia,2002,6,6,NF
+498,Liberia,2003,6,6,NF
+499,Liberia,2004,5,4,PF
+500,Liberia,2005,4,4,PF
+501,Liberia,2006,3,4,PF
+502,Liberia,2007,3,4,PF
+503,Liberia,2008,3,4,PF
+504,Liberia,2009,3,4,PF
+505,Liberia,2010,3,4,PF
+506,Liberia,2011,3,4,PF
+507,Liberia,2012,3,4,PF
+508,Liberia,2013,3,,PF
+509,Liberia,2014,3,4,PF
+510,Libya,2000,7,7,NF
+511,Libya,2001,7,7,NF
+512,Libya,2002,7,7,NF
+513,Libya,2003,7,7,NF
+514,Libya,2004,7,7,NF
+515,Libya,2005,7,7,NF
+516,Libya,2006,7,7,NF
+517,Libya,2007,7,7,NF
+518,Libya,2008,7,7,NF
+519,Libya,2009,7,7,NF
+520,Libya,2010,7,7,NF
+521,Libya,2011,7,6,NF
+522,Libya,2012,4,5,PF
+523,Libya,2013,4,,PF
+524,Libya,2014,6,6,NF
+525,Madagascar,2000,2,4,PF
+526,Madagascar,2001,2,4,PF
+527,Madagascar,2002,3,4,PF
+528,Madagascar,2003,3,3,PF
+529,Madagascar,2004,3,3,PF
+530,Madagascar,2005,3,3,PF
+531,Madagascar,2006,4,3,PF
+532,Madagascar,2007,4,3,PF
+533,Madagascar,2008,4,3,PF
+534,Madagascar,2009,6,4,PF
+535,Madagascar,2010,6,4,PF
+536,Madagascar,2011,6,4,PF
+537,Madagascar,2012,6,4,PF
+538,Madagascar,2013,5,,PF
+539,Madagascar,2014,4,4,PF
+540,Malawi,2000,3,3,PF
+541,Malawi,2001,4,3,PF
+542,Malawi,2002,4,4,PF
+543,Malawi,2003,3,4,PF
+544,Malawi,2004,4,4,PF
+545,Malawi,2005,4,4,PF
+546,Malawi,2006,4,3,PF
+547,Malawi,2007,4,4,PF
+548,Malawi,2008,4,4,PF
+549,Malawi,2009,3,4,PF
+550,Malawi,2010,3,4,PF
+551,Malawi,2011,3,4,PF
+552,Malawi,2012,3,4,PF
+553,Malawi,2013,3,,PF
+554,Malawi,2014,3,4,PF
+555,Mali,2000,2,3,F
+556,Mali,2001,2,3,F
+557,Mali,2002,2,3,F
+558,Mali,2003,2,2,F
+559,Mali,2004,2,2,F
+560,Mali,2005,2,2,F
+561,Mali,2006,2,2,F
+562,Mali,2007,2,3,F
+563,Mali,2008,2,3,F
+564,Mali,2009,2,3,F
+565,Mali,2010,2,3,F
+566,Mali,2011,2,3,F
+567,Mali,2012,7,5,NF
+568,Mali,2013,5,,PF
+569,Mali,2014,5,4,PF
+570,Mauritania,2000,6,5,NF
+571,Mauritania,2001,5,5,PF
+572,Mauritania,2002,5,5,PF
+573,Mauritania,2003,6,5,NF
+574,Mauritania,2004,6,5,NF
+575,Mauritania,2005,6,4,PF
+576,Mauritania,2006,5,4,PF
+577,Mauritania,2007,4,4,PF
+578,Mauritania,2008,6,5,NF
+579,Mauritania,2009,6,5,NF
+580,Mauritania,2010,6,5,NF
+581,Mauritania,2011,6,5,NF
+582,Mauritania,2012,6,5,NF
+583,Mauritania,2013,6,,NF
+584,Mauritania,2014,6,5,NF
+585,Mauritius,2000,1,2,F
+586,Mauritius,2001,1,2,F
+587,Mauritius,2002,1,2,F
+588,Mauritius,2003,1,2,F
+589,Mauritius,2004,1,1,F
+590,Mauritius,2005,1,1,F
+591,Mauritius,2006,1,2,F
+592,Mauritius,2007,1,2,F
+593,Mauritius,2008,1,2,F
+594,Mauritius,2009,1,2,F
+595,Mauritius,2010,1,2,F
+596,Mauritius,2011,1,2,F
+597,Mauritius,2012,1,2,F
+598,Mauritius,2013,1,,F
+599,Mauritius,2014,1,2,F
+600,Morocco,2000,5,4,PF
+601,Morocco,2001,5,5,PF
+602,Morocco,2002,5,5,PF
+603,Morocco,2003,5,5,PF
+604,Morocco,2004,5,4,PF
+605,Morocco,2005,5,4,PF
+606,Morocco,2006,5,4,PF
+607,Morocco,2007,5,4,PF
+608,Morocco,2008,5,4,PF
+609,Morocco,2009,5,4,PF
+610,Morocco,2010,5,4,PF
+611,Morocco,2011,5,4,PF
+612,Morocco,2012,5,4,PF
+613,Morocco,2013,5,,PF
+614,Morocco,2014,5,4,PF
+615,Mozambique,2000,3,4,PF
+616,Mozambique,2001,3,4,PF
+617,Mozambique,2002,3,4,PF
+618,Mozambique,2003,3,4,PF
+619,Mozambique,2004,3,4,PF
+620,Mozambique,2005,3,4,PF
+621,Mozambique,2006,3,4,PF
+622,Mozambique,2007,3,3,PF
+623,Mozambique,2008,3,3,PF
+624,Mozambique,2009,4,3,PF
+625,Mozambique,2010,4,3,PF
+626,Mozambique,2011,4,3,PF
+627,Mozambique,2012,4,3,PF
+628,Mozambique,2013,4,,PF
+629,Mozambique,2014,4,3,PF
+630,Namibia,2000,2,3,F
+631,Namibia,2001,2,3,F
+632,Namibia,2002,2,3,F
+633,Namibia,2003,2,3,F
+634,Namibia,2004,2,3,F
+635,Namibia,2005,2,2,F
+636,Namibia,2006,2,2,F
+637,Namibia,2007,2,2,F
+638,Namibia,2008,2,2,F
+639,Namibia,2009,2,2,F
+640,Namibia,2010,2,2,F
+641,Namibia,2011,2,2,F
+642,Namibia,2012,2,2,F
+643,Namibia,2013,2,,F
+644,Namibia,2014,2,2,F
+645,Niger,2000,4,4,PF
+646,Niger,2001,4,4,PF
+647,Niger,2002,4,4,PF
+648,Niger,2003,4,4,PF
+649,Niger,2004,3,3,PF
+650,Niger,2005,3,3,PF
+651,Niger,2006,3,3,PF
+652,Niger,2007,3,4,PF
+653,Niger,2008,3,4,PF
+654,Niger,2009,5,4,PF
+655,Niger,2010,5,4,PF
+656,Niger,2011,3,4,PF
+657,Niger,2012,3,4,PF
+658,Niger,2013,3,,PF
+659,Niger,2014,3,4,PF
+660,Nigeria,2000,4,4,PF
+661,Nigeria,2001,4,5,PF
+662,Nigeria,2002,4,5,PF
+663,Nigeria,2003,4,4,PF
+664,Nigeria,2004,4,4,PF
+665,Nigeria,2005,4,4,PF
+666,Nigeria,2006,4,4,PF
+667,Nigeria,2007,4,4,PF
+668,Nigeria,2008,5,4,PF
+669,Nigeria,2009,5,4,PF
+670,Nigeria,2010,4,4,PF
+671,Nigeria,2011,4,4,PF
+672,Nigeria,2012,4,4,PF
+673,Nigeria,2013,4,,PF
+674,Nigeria,2014,4,5,PF
+675,Oman,2000,6,5,NF
+676,Oman,2001,6,5,NF
+677,Oman,2002,6,5,NF
+678,Oman,2003,6,5,NF
+679,Oman,2004,6,5,NF
+680,Oman,2005,6,5,NF
+681,Oman,2006,6,5,NF
+682,Oman,2007,6,5,NF
+683,Oman,2008,6,5,NF
+684,Oman,2009,6,5,NF
+685,Oman,2010,6,5,NF
+686,Oman,2011,6,5,NF
+687,Oman,2012,6,5,NF
+688,Oman,2013,6,,NF
+689,Oman,2014,6,5,NF
+690,Qatar,2000,6,6,NF
+691,Qatar,2001,6,6,NF
+692,Qatar,2002,6,6,NF
+693,Qatar,2003,6,6,NF
+694,Qatar,2004,6,5,NF
+695,Qatar,2005,6,5,NF
+696,Qatar,2006,6,5,NF
+697,Qatar,2007,6,5,NF
+698,Qatar,2008,6,5,NF
+699,Qatar,2009,6,5,NF
+700,Qatar,2010,6,5,NF
+701,Qatar,2011,6,5,NF
+702,Qatar,2012,6,5,NF
+703,Qatar,2013,6,,NF
+704,Qatar,2014,6,5,NF
+705,Rwanda,2000,7,6,NF
+706,Rwanda,2001,7,6,NF
+707,Rwanda,2002,7,5,NF
+708,Rwanda,2003,6,5,NF
+709,Rwanda,2004,6,5,NF
+710,Rwanda,2005,6,5,NF
+711,Rwanda,2006,6,5,NF
+712,Rwanda,2007,6,5,NF
+713,Rwanda,2008,6,5,NF
+714,Rwanda,2009,6,5,NF
+715,Rwanda,2010,6,5,NF
+716,Rwanda,2011,6,5,NF
+717,Rwanda,2012,6,6,NF
+718,Rwanda,2013,6,,NF
+719,Rwanda,2014,6,6,NF
+720,Sao Tome and Principe,2000,1,2,F
+721,Sao Tome and Principe,2001,1,2,F
+722,Sao Tome and Principe,2002,1,2,F
+723,Sao Tome and Principe,2003,2,2,F
+724,Sao Tome and Principe,2004,2,2,F
+725,Sao Tome and Principe,2005,2,2,F
+726,Sao Tome and Principe,2006,2,2,F
+727,Sao Tome and Principe,2007,2,2,F
+728,Sao Tome and Principe,2008,2,2,F
+729,Sao Tome and Principe,2009,2,2,F
+730,Sao Tome and Principe,2010,2,2,F
+731,Sao Tome and Principe,2011,2,2,F
+732,Sao Tome and Principe,2012,2,2,F
+733,Sao Tome and Principe,2013,2,,F
+734,Sao Tome and Principe,2014,2,2,F
+735,Saudi Arabia,2000,7,7,NF
+736,Saudi Arabia,2001,7,7,NF
+737,Saudi Arabia,2002,7,7,NF
+738,Saudi Arabia,2003,7,7,NF
+739,Saudi Arabia,2004,7,7,NF
+740,Saudi Arabia,2005,7,6,NF
+741,Saudi Arabia,2006,7,6,NF
+742,Saudi Arabia,2007,7,6,NF
+743,Saudi Arabia,2008,7,6,NF
+744,Saudi Arabia,2009,7,6,NF
+745,Saudi Arabia,2010,7,6,NF
+746,Saudi Arabia,2011,7,7,NF
+747,Saudi Arabia,2012,7,7,NF
+748,Saudi Arabia,2013,7,,NF
+749,Saudi Arabia,2014,7,7,NF
+750,Senegal,2000,3,4,PF
+751,Senegal,2001,3,4,PF
+752,Senegal,2002,2,3,F
+753,Senegal,2003,2,3,F
+754,Senegal,2004,2,3,F
+755,Senegal,2005,2,3,F
+756,Senegal,2006,2,3,F
+757,Senegal,2007,2,3,F
+758,Senegal,2008,3,3,PF
+759,Senegal,2009,3,3,PF
+760,Senegal,2010,3,3,PF
+761,Senegal,2011,3,3,PF
+762,Senegal,2012,2,3,F
+763,Senegal,2013,2,,F
+764,Senegal,2014,2,2,F
+765,Sierra Leone,2000,4,5,PF
+766,Sierra Leone,2001,4,5,PF
+767,Sierra Leone,2002,4,4,PF
+768,Sierra Leone,2003,4,3,PF
+769,Sierra Leone,2004,4,3,PF
+770,Sierra Leone,2005,4,3,PF
+771,Sierra Leone,2006,4,3,PF
+772,Sierra Leone,2007,3,3,PF
+773,Sierra Leone,2008,3,3,PF
+774,Sierra Leone,2009,3,3,PF
+775,Sierra Leone,2010,3,3,PF
+776,Sierra Leone,2011,3,3,PF
+777,Sierra Leone,2012,2,3,F
+778,Sierra Leone,2013,3,,PF
+779,Sierra Leone,2014,3,3,PF
+780,Somalia,2000,6,7,NF
+781,Somalia,2001,6,7,NF
+782,Somalia,2002,6,7,NF
+783,Somalia,2003,6,7,NF
+784,Somalia,2004,6,7,NF
+785,Somalia,2005,6,7,NF
+786,Somalia,2006,7,7,NF
+787,Somalia,2007,7,7,NF
+788,Somalia,2008,7,7,NF
+789,Somalia,2009,7,7,NF
+790,Somalia,2010,7,7,NF
+791,Somalia,2011,7,7,NF
+792,Somalia,2012,7,7,NF
+793,Somalia,2013,7,,NF
+794,Somalia,2014,7,7,NF
+795,South Africa,2000,1,2,F
+796,South Africa,2001,1,2,F
+797,South Africa,2002,1,2,F
+798,South Africa,2003,1,2,F
+799,South Africa,2004,1,2,F
+800,South Africa,2005,1,2,F
+801,South Africa,2006,2,2,F
+802,South Africa,2007,2,2,F
+803,South Africa,2008,2,2,F
+804,South Africa,2009,2,2,F
+805,South Africa,2010,2,2,F
+806,South Africa,2011,2,2,F
+807,South Africa,2012,2,2,F
+808,South Africa,2013,2,,F
+809,South Africa,2014,2,2,F
+810,South Sudan,2000,-,-,-
+811,South Sudan,2001,-,-,-
+812,South Sudan,2002,-,-,-
+813,South Sudan,2003,-,-,-
+814,South Sudan,2004,-,-,-
+815,South Sudan,2005,-,-,-
+816,South Sudan,2006,-,-,-
+817,South Sudan,2007,-,-,-
+818,South Sudan,2008,-,-,-
+819,South Sudan,2009,-,-,-
+820,South Sudan,2010,-,-,-
+821,South Sudan,2011,6,5,NF
+822,South Sudan,2012,6,5,NF
+823,South Sudan,2013,6,,NF
+824,South Sudan,2014,7,6,NF
+825,Sudan,2000,7,7,NF
+826,Sudan,2001,7,7,NF
+827,Sudan,2002,7,7,NF
+828,Sudan,2003,7,7,NF
+829,Sudan,2004,7,7,NF
+830,Sudan,2005,7,7,NF
+831,Sudan,2006,7,7,NF
+832,Sudan,2007,7,7,NF
+833,Sudan,2008,7,7,NF
+834,Sudan,2009,7,7,NF
+835,Sudan,2010,7,7,NF
+836,Sudan,2011,7,7,NF
+837,Sudan,2012,7,7,NF
+838,Sudan,2013,7,,NF
+839,Sudan,2014,7,7,NF
+840,Swaziland,2000,6,5,NF
+841,Swaziland,2001,6,5,NF
+842,Swaziland,2002,6,5,NF
+843,Swaziland,2003,7,5,NF
+844,Swaziland,2004,7,5,NF
+845,Swaziland,2005,7,5,NF
+846,Swaziland,2006,7,5,NF
+847,Swaziland,2007,7,5,NF
+848,Swaziland,2008,7,5,NF
+849,Swaziland,2009,7,5,NF
+850,Swaziland,2010,7,5,NF
+851,Swaziland,2011,7,5,NF
+852,Swaziland,2012,7,5,NF
+853,Swaziland,2013,7,,NF
+854,Swaziland,2014,7,5,NF
+855,Syria,2000,7,7,NF
+856,Syria,2001,7,7,NF
+857,Syria,2002,7,7,NF
+858,Syria,2003,7,7,NF
+859,Syria,2004,7,7,NF
+860,Syria,2005,7,7,NF
+861,Syria,2006,7,6,NF
+862,Syria,2007,7,6,NF
+863,Syria,2008,7,6,NF
+864,Syria,2009,7,6,NF
+865,Syria,2010,7,6,NF
+866,Syria,2011,7,7,NF
+867,Syria,2012,7,7,NF
+868,Syria,2013,7,,NF
+869,Syria,2014,7,7,NF
+870,Tanzania,2000,4,4,PF
+871,Tanzania,2001,4,4,PF
+872,Tanzania,2002,4,3,PF
+873,Tanzania,2003,4,3,PF
+874,Tanzania,2004,4,3,PF
+875,Tanzania,2005,4,3,PF
+876,Tanzania,2006,4,3,PF
+877,Tanzania,2007,4,3,PF
+878,Tanzania,2008,4,3,PF
+879,Tanzania,2009,4,3,PF
+880,Tanzania,2010,3,3,PF
+881,Tanzania,2011,3,3,PF
+882,Tanzania,2012,3,3,PF
+883,Tanzania,2013,3,,PF
+884,Tanzania,2014,3,3,PF
+885,The Gambia,2000,7,5,NF
+886,The Gambia,2001,5,5,PF
+887,The Gambia,2002,4,4,PF
+888,The Gambia,2003,4,4,PF
+889,The Gambia,2004,4,4,PF
+890,The Gambia,2005,5,4,PF
+891,The Gambia,2006,5,4,PF
+892,The Gambia,2007,5,4,PF
+893,The Gambia,2008,5,4,PF
+894,The Gambia,2009,5,5,PF
+895,The Gambia,2010,5,5,PF
+896,The Gambia,2011,6,5,NF
+897,The Gambia,2012,6,6,NF
+898,The Gambia,2013,6,,NF
+899,The Gambia,2014,6,6,NF
+900,Togo,2000,5,5,PF
+901,Togo,2001,5,5,PF
+902,Togo,2002,6,5,NF
+903,Togo,2003,6,5,NF
+904,Togo,2004,6,5,NF
+905,Togo,2005,6,5,NF
+906,Togo,2006,6,5,NF
+907,Togo,2007,5,5,PF
+908,Togo,2008,5,5,PF
+909,Togo,2009,5,4,PF
+910,Togo,2010,5,4,PF
+911,Togo,2011,5,4,PF
+912,Togo,2012,5,4,PF
+913,Togo,2013,4,,PF
+914,Togo,2014,4,4,PF
+915,Tunisia,2000,6,5,NF
+916,Tunisia,2001,6,5,NF
+917,Tunisia,2002,6,5,NF
+918,Tunisia,2003,6,5,NF
+919,Tunisia,2004,6,5,NF
+920,Tunisia,2005,6,5,NF
+921,Tunisia,2006,6,5,NF
+922,Tunisia,2007,7,5,NF
+923,Tunisia,2008,7,5,NF
+924,Tunisia,2009,7,5,NF
+925,Tunisia,2010,7,5,NF
+926,Tunisia,2011,3,4,PF
+927,Tunisia,2012,3,4,PF
+928,Tunisia,2013,3,,PF
+929,Tunisia,2014,1,3,F
+930,Turkey,2000,4,5,PF
+931,Turkey,2001,4,5,PF
+932,Turkey,2002,3,4,PF
+933,Turkey,2003,3,4,PF
+934,Turkey,2004,3,3,PF
+935,Turkey,2005,3,3,PF
+936,Turkey,2006,3,3,PF
+937,Turkey,2007,3,3,PF
+938,Turkey,2008,3,3,PF
+939,Turkey,2009,3,3,PF
+940,Turkey,2010,3,3,PF
+941,Turkey,2011,3,3,PF
+942,Turkey,2012,3,4,PF
+943,Turkey,2013,3,,PF
+944,Turkey,2014,3,4,PF
+945,Uganda,2000,6,5,PF
+946,Uganda,2001,6,5,PF
+947,Uganda,2002,6,4,PF
+948,Uganda,2003,5,4,PF
+949,Uganda,2004,5,4,PF
+950,Uganda,2005,5,4,PF
+951,Uganda,2006,5,4,PF
+952,Uganda,2007,5,4,PF
+953,Uganda,2008,5,4,PF
+954,Uganda,2009,5,4,PF
+955,Uganda,2010,5,4,PF
+956,Uganda,2011,5,4,PF
+957,Uganda,2012,5,4,PF
+958,Uganda,2013,6,,PF
+959,Uganda,2014,6,5,NF
+960,United Arab Emirates,2000,6,5,NF
+961,United Arab Emirates,2001,6,5,NF
+962,United Arab Emirates,2002,6,5,NF
+963,United Arab Emirates,2003,6,6,NF
+964,United Arab Emirates,2004,6,6,NF
+965,United Arab Emirates,2005,6,6,NF
+966,United Arab Emirates,2006,6,5,NF
+967,United Arab Emirates,2007,6,5,NF
+968,United Arab Emirates,2008,6,5,NF
+969,United Arab Emirates,2009,6,5,NF
+970,United Arab Emirates,2010,6,5,NF
+971,United Arab Emirates,2011,6,6,NF
+972,United Arab Emirates,2012,6,6,NF
+973,United Arab Emirates,2013,6,,NF
+974,United Arab Emirates,2014,6,6,NF
+975,Yemen,2000,5,6,NF
+976,Yemen,2001,6,6,NF
+977,Yemen,2002,6,5,NF
+978,Yemen,2003,5,5,PF
+979,Yemen,2004,5,5,PF
+980,Yemen,2005,5,5,PF
+981,Yemen,2006,5,5,PF
+982,Yemen,2007,5,5,PF
+983,Yemen,2008,5,5,PF
+984,Yemen,2009,6,5,NF
+985,Yemen,2010,6,5,NF
+986,Yemen,2011,6,6,NF
+987,Yemen,2012,6,6,NF
+988,Yemen,2013,6,,NF
+989,Yemen,2014,6,6,NF
+990,Zambia,2000,5,4,PF
+991,Zambia,2001,5,4,PF
+992,Zambia,2002,4,4,PF
+993,Zambia,2003,4,4,PF
+994,Zambia,2004,4,4,PF
+995,Zambia,2005,4,4,PF
+996,Zambia,2006,3,4,PF
+997,Zambia,2007,3,4,PF
+998,Zambia,2008,3,3,PF
+999,Zambia,2009,3,4,PF
+1000,Zambia,2010,3,4,PF
+1001,Zambia,2011,3,4,PF
+1002,Zambia,2012,3,4,PF
+1003,Zambia,2013,3,,PF
+1004,Zambia,2014,3,4,PF
+1005,Zimbabwe,2000,6,5,PF
+1006,Zimbabwe,2001,6,6,NF
+1007,Zimbabwe,2002,6,6,NF
+1008,Zimbabwe,2003,6,6,NF
+1009,Zimbabwe,2004,7,6,NF
+1010,Zimbabwe,2005,7,6,NF
+1011,Zimbabwe,2006,7,6,NF
+1012,Zimbabwe,2007,7,6,NF
+1013,Zimbabwe,2008,7,6,NF
+1014,Zimbabwe,2009,6,6,NF
+1015,Zimbabwe,2010,6,6,NF
+1016,Zimbabwe,2011,6,6,NF
+1017,Zimbabwe,2012,6,6,NF
+1018,Zimbabwe,2013,5,,NF
+1019,Zimbabwe,2014,5,6,NF
+1020,Algeria,2103,,5,
+1021,Angola,2103,,5,
+1022,Bahrain,2103,,6,
+1023,Benin,2103,,2,
+1024,Botswana,2103,,2,
+1025,Brazil,2103,,2,
+1026,Burkina Faso,2103,,3,
+1027,Burundi,2103,,5,
+1028,Cameroon,2103,,6,
+1029,Cape Verde,2103,,1,
+1030,Central African Republic,2103,,7,
+1031,Chad,2103,,6,
+1032,Comoros,2103,,4,
+1033,Congo (Brazzaville),2103,,5,
+1034,Congo (Kinshasa),2103,,6,
+1035,Cote d'Ivoire,2103,,4,
+1036,Djibouti,2103,,5,
+1037,Egypt,2103,,5,
+1038,Equatorial Guinea,2103,,7,
+1039,Eritrea,2103,,7,
+1040,Ethiopia,2103,,6,
+1041,Gabon,2103,,5,
+1042,Ghana,2103,,2,
+1043,Guinea,2103,,5,
+1044,Guinea-Bissau,2103,,5,
+1045,Iran,2103,,6,
+1046,Iraq,2103,,6,
+1047,Israel,2103,,2,
+1048,Jordan,2103,,5,
+1049,Kenya,2103,,4,
+1050,Kuwait,2103,,5,
+1051,Lebanon,2103,,4,
+1052,Lesotho,2103,,3,
+1053,Liberia,2103,,4,
+1054,Libya,2103,,5,
+1055,Madagascar,2103,,4,
+1056,Malawi,2103,,4,
+1057,Mali,2103,,4,
+1058,Mauritania,2103,,5,
+1059,Mauritius,2103,,2,
+1060,Morocco,2103,,4,
+1061,Mozambique,2103,,3,
+1062,Namibia,2103,,2,
+1063,Niger,2103,,4,
+1064,Nigeria,2103,,4,
+1065,Oman,2103,,5,
+1066,Qatar,2103,,5,
+1067,Rwanda,2103,,5,
+1068,Sao Tome and Principe,2103,,2,
+1069,Saudi Arabia,2103,,7,
+1070,Senegal,2103,,2,
+1071,Sierra Leone,2103,,3,
+1072,Somalia,2103,,7,
+1073,South Africa,2103,,2,
+1074,South Sudan,2103,,6,
+1075,Sudan,2103,,7,
+1076,Swaziland,2103,,5,
+1077,Syria,2103,,7,
+1078,Tanzania,2103,,3,
+1079,The Gambia,2103,,6,
+1080,Togo,2103,,4,
+1081,Tunisia,2103,,3,
+1082,Turkey,2103,,4,
+1083,Uganda,2103,,4,
+1084,United Arab Emirates,2103,,6,
+1085,Yemen,2103,,6,
+1086,Zambia,2103,,4,
+1087,Zimbabwe,2103,,6,
